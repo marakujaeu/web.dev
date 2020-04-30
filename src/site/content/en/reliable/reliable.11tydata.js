@@ -6,7 +6,7 @@ module.exports = {
     // Because it affects urls, the slug should never be translated.
     slug: 'reliable',
     cover: '/images/collections/reliable.svg',
-    title: 'Network reliability',
+    title: 'Stabilność sieciowa',
     updated: 'May 24, 2018',
     description: `See consistent, reliable performance regardless of network
     quality.`,
@@ -16,7 +16,7 @@ module.exports = {
     wherever and however they access the internet.`,
     topics: [
       {
-        title: 'How to measure network reliability',
+        title: 'Jak zmierzyć stabilność sieciową',
         pathItems: [
           'network-connections-unreliable',
           'identify-resources-via-network-panel',
