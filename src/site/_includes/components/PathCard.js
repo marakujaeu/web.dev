@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-const {html} = require('common-tags');
+const { html } = require('common-tags');
 const removeDrafts = require('../../_filters/remove-drafts');
 
 /* eslint-disable max-len */
@@ -49,7 +49,7 @@ function getPostCount(learningPath, lang) {
   const count = topics.reduce((pathItemsCount, topic) => {
     return pathItemsCount + topic.pathItems.length;
   }, 0);
-  const label = count > 1 ? 'resources' : 'resource';
+  const label = count > 1 ? 'zasobów' : 'zasób';
   return `${count} ${label}`;
 }
 
@@ -65,11 +65,7 @@ module.exports = (path, lang) => {
       <div class="w-path-card">
         <div class="w-path-card__info">
           <ul class="w-path-card__info-list">
-            <li
-              class="w-path-card__info-listitem w-path-card__info-listitem--category"
-            >
-              Collection
-            </li>
+            
             <li
               class="w-path-card__info-listitem w-path-card__info-listitem--more-info"
             >
@@ -78,7 +74,7 @@ module.exports = (path, lang) => {
             <li
               class="w-path-card__info-listitem w-path-card__info-listitem--updated"
             >
-              Updated <time>${path.date}</time>
+              Zaktualizowano <time>${path.date}</time>
             </li>
           </ul>
         </div>
