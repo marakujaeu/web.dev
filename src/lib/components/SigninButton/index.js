@@ -1,14 +1,14 @@
-import {html} from 'lit-element';
-import {signIn} from '../../fb';
-import {BaseStateElement} from '../BaseStateElement';
+import { html } from 'lit-element';
+import { signIn } from '../../fb';
+import { BaseStateElement } from '../BaseStateElement';
 import './_styles.scss';
 
 /* eslint-disable require-jsdoc */
 class SigninButton extends BaseStateElement {
   static get properties() {
     return {
-      checkingSignedInState: {type: Boolean},
-      isSignedIn: {type: Boolean},
+      checkingSignedInState: { type: Boolean },
+      isSignedIn: { type: Boolean },
     };
   }
 
@@ -62,12 +62,12 @@ class SigninButton extends BaseStateElement {
             d="M48 48L17 24l-4-3 35-10z"
           />
         </svg>
-        Sign in with Google
+        Porozmawiaj z nami na czacie
       </button>
     `;
   }
 
-  onStateChanged({checkingSignedInState, isSignedIn}) {
+  onStateChanged({ checkingSignedInState, isSignedIn }) {
     this.checkingSignedInState = checkingSignedInState;
     this.isSignedIn = isSignedIn;
   }

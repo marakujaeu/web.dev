@@ -1,25 +1,23 @@
 ---
 layout: post
-title: Why does speed matter?
+title: Dlaczego prędkość ma znaczenie?
 authors:
   - bojanpavic
   - ansteychris  
 description: |
-  When it comes to user experience, speed matters. And delays caused by mobile
-  speed aren't just frustrating, they can also have a negative impact on
-  business results.
+  Szybkość ma znaczenie w przypadku wrażeń użytkownika. Opóźnienia spowodowane szybkością mobilną są nie tylko frustrujące, ale mogą również mieć negatywny wpływ na wyniki biznesowe.
 web_lighthouse: N/A
 date: 2019-05-01
 ---
 
-Consumers increasingly rely on mobile to access digital content and services, and if you look at your site analytics, you'll probably see this story playing out in your own data. Consumers are also more demanding than they've ever been, and when they weigh up the experience on your site, they aren't just comparing you with your competitors, they're rating you against the best in class services they use every day.
+Konsumenci w coraz większym stopniu polegają na urządzeniach mobilnych w kwestii uzyskania dostępu do treści i usług cyfrowych, a jeśli spojrzysz na analitykę witryny, prawdopodobnie zobaczysz podobne trendy. Konsumenci są również bardziej wymagający niż kiedykolwiek wcześniej, a kiedy oceniają wygodę korzystania z Twojej witryny, nie tylko porównują Cię z konkurencją, ale oceniają Cię na tle najlepszych w swojej klasie usług, z których korzystają na co dzień.
 
 <img src="./speed-conversion-impact.jpg" alt="Image showing how a one-second delay in mobile load times can impact conversion rates by up to 20%">
 
-When it comes to user experience, speed matters. A [consumer study](https://www.ericsson.com/en/press-releases/2016/2/streaming-delays-mentally-taxing-for-smartphone-users-ericsson-mobility-report) shows that the stress response to delays in mobile speed are similar to that of watching a horror movie or solving a mathematical problem, and greater than waiting in a checkout line at a retail store. And delays caused by mobile speed aren't just frustrating, they can also have a negative impact on business results. For example, we have seen that a one-second delay in mobile load times can impact conversion rates [by up to 20%](https://www.thinkwithgoogle.com/intl/en-gb/advertising-channels/mobile/milliseconds-earn-millions-why-mobile-speed-can-slow-or-grow-your-business/).
+Gdy chodzi o pozytywne wrażenia użytkownika odnośnie strony internetowej, prędkość ma znaczenie. [Badania przeprowadzone przez firmę Erricson](https://www.ericsson.com/en/press-releases/2016/2/streaming-delays-mentally-taxing-for-smartphone-users-ericsson-mobility-report) pokazują, że stres wywołany opóźnieniami na urządzeniach mobilnych jest podobny do oglądania horroru lub rozwiązywania matematycznego problemu oraz jest większy, niż ten związany z czekaniem w kolejce w sklepie. Opóźnienia spowodowane szybkością usługi na urządzeniu mobilnym są nie tylko frustrujące, ale mogą również mieć negatywny wpływ na wyniki biznesowe. Przykładem może być fakt, że każda sekunda opóźnienia w czasie ładowania strony [może mieć wpływ na konwersję aż do 20%](https://www.thinkwithgoogle.com/intl/en-gb/advertising-channels/mobile/milliseconds-earn-millions-why-mobile-speed-can-slow-or-grow-your-business/).
 
 {% Aside 'note' %}
-  Optimizing the speed of your site can also make it accessible to audiences who are on the slowest of network connections and may not have been able to access it or access it well previously.
+  Optymalizacja szybkości witryny może również umożliwić jej dostęp do odbiorców, którzy korzystają z najwolniejszego połączenia sieciowego i nie mają dostępu do szybkiego internetu.
 {% endAside %}
 
 
@@ -27,7 +25,7 @@ When it comes to user experience, speed matters. A [consumer study](https://www.
 <figure class="w-figure w-figure--inline-right">
   <blockquote>
     <p>
-  	Performance has directly impacted the company's bottom line.
+  	Wydajność bezpośrednio wpłynęła na wyniki firmy.
     </p>
     <cite>
       <a href="https://www.youtube.com/watch?v=Xryhxi45Q5M&feature=youtu.be&t=1366">Pinterest</a>
@@ -35,4 +33,4 @@ When it comes to user experience, speed matters. A [consumer study](https://www.
   </blockquote>
 </figure>
 
-Many brands are already investing in mobile speed and achieving great results. In just [one example](https://www.thinkwithgoogle.com/intl/en-gb/success-stories/uk-success-stories/furniture-village-and-greenlight-slash-page-load-times-boosting-user-experience/), retailer Furniture Village audited their site speed and developed a plan to address the problems they found, leading to a 20% reduction in page load time and a 10% increase in conversion rate.
+Wiele marek już inwestuje w szybkość mobilną i osiąga świetne wyniki. [Kolejny przykład](https://www.thinkwithgoogle.com/intl/en-gb/success-stories/uk-success-stories/furniture-village-and-greenlight-slash-page-load-times-boosting-user-experience/), sprzedawca mebli Furniture Village skontrolował szybkość witryny i opracował plan rozwiązania napotkanych problemów, co doprowadziło do 20% skrócenia czasu ładowania strony i 10% wzrostu współczynnika konwersji.
