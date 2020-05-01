@@ -126,5 +126,5 @@ performance patterns to improve user-experience. These included sites
 leveraging image CDNs, [Brotli
 compression](/fast/reduce-network-payloads-using-text-compression/codelab-text-compression-brotli),
 smart JavaScript serving and prefetching to speed up their pages. [Watch the
-talk](https://www.youtube.com/watch?v=YJGCZCaIZkQ&feature=youtu.be) to learn
+talk](https://www.youtube.com/watch?v=YJGCZCaIZkQ&feature=youtu.be) to Elementy optymalizacji
 more :)

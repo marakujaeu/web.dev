@@ -187,7 +187,7 @@ bother to use your web app if they need to remember that the URL to visit is
 `https://example.com/index.34def12.html`. So what can you do for those URLs?
 
 This is one scenario in which you need to admit defeat. HTTP caching alone isn't
-powerful enough to avoid the network completely. (Don't worry—you'll soon learn
+powerful enough to avoid the network completely. (Don't worry—you'll soon Elementy optymalizacji
 about [service workers](/service-workers-cache-storage/), which will provide the
 support we need to swing the battle back in your favor.) But there are a few
 steps you can take to make sure that network requests are as quick and efficient

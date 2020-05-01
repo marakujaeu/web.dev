@@ -9,21 +9,10 @@ module.exports = {
     title: 'Szybki czas łaowania',
     updated: 'May 24, 2018',
     description: 'Zapewnij szybki czas ładowania witryny aby nie utracić uwagi użytkowników.',
-    overview: `When you're building a modern web experience, it's important to
-    measure, optimize, and monitor if you're to get fast and stay fast.
-    Performance plays a significant role in the success of any online venture,
-    as high performing sites engage and retain users better than poorly
-    performing ones.
-
-    Sites should focus on optimizing for user-centric happiness metrics. Tools
-    like Lighthouse (baked into web.dev!) highlight these metrics and help you
-    take the right steps toward improving your performance. To "stay fast", set
-    and enforce performance budgets to help your team work within the
-    constraints needed to continue loading fast and keeping users happy after
-    your site has launched.`,
+    overview: `Podczas budowania nowoczesnego środowiska internetowego ważnym jest, aby mierzyć, optymalizować i monitorować czy staje się ono szybszym i szybkim pozostanie. Wydajność odgrywa znaczącą rolę w sukcesie każdego przedsięwzięcia online, ponieważ witryny o wysokiej skuteczności angażują i zatrzymują użytkowników lepiej niż te o niskiej wydajności. Strony internetowe powiny koncentrować się na optymalizacji czynników poprawiających wygodę i zadowolenie użytkowników. Aby „pozostać szybkim”, ustaw i egzekwuj budżety wydajności, aby pomóc zespołowi pracować w ramach ograniczeń niezbędnych do dalszego szybkiego ładowania i zapewniania zadowolenia użytkowników po uruchomieniu witryny.`,
     topics: [
       {
-        title: 'Introduction',
+        title: 'Wprowadzenie',
         pathItems: [
           'why-speed-matters',
           'what-is-speed',
@@ -32,7 +21,7 @@ module.exports = {
         ],
       },
       {
-        title: 'Set performance budgets',
+        title: 'Ustanowienie budżetów wydajności',
         pathItems: [
           'performance-budgets-101',
           'your-first-performance-budget',
@@ -43,7 +32,7 @@ module.exports = {
         ],
       },
       {
-        title: 'Optimize your images',
+        title: 'Optymalizacja grafik',
         pathItems: [
           'use-imagemin-to-compress-images',
           'replace-gifs-with-videos',
@@ -55,7 +44,7 @@ module.exports = {
         ],
       },
       {
-        title: 'Optimize your JavaScript',
+        title: 'Optymalizacja JavaScript',
         pathItems: [
           'apply-instant-loading-with-prpl',
           'preload-critical-assets',
@@ -66,7 +55,7 @@ module.exports = {
         ],
       },
       {
-        title: 'Optimize your CSS',
+        title: 'Optymalizacja CSS',
         pathItems: [
           'defer-non-critical-css',
           'minify-css',
@@ -75,7 +64,7 @@ module.exports = {
         ],
       },
       {
-        title: 'Optimize your third-party resources',
+        title: 'Optymalizacja zasobów innych firm',
         pathItems: [
           'third-party-javascript',
           'identify-slow-third-party-javascript',
@@ -83,15 +72,15 @@ module.exports = {
         ],
       },
       {
-        title: 'Optimize web fonts',
+        title: 'Optymalizacja czcionek',
         pathItems: ['avoid-invisible-text'],
       },
       {
-        title: 'Optimize for network quality',
+        title: 'Optymalizacja infrastruktury sieciowej',
         pathItems: ['adaptive-serving-based-on-network-quality'],
       },
       {
-        title: 'Measure performance in the field',
+        title: 'Zmierz swoją wydajność',
         pathItems: [
           'chrome-ux-report',
           'chrome-ux-report-data-studio-dashboard',
@@ -100,7 +89,7 @@ module.exports = {
         ],
       },
       {
-        title: 'Build a performance culture',
+        title: 'Wytwórz kulturę wydajności',
         pathItems: [
           'value-of-speed',
           'how-can-performance-improve-conversion',

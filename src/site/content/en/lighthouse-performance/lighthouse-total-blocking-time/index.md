@@ -63,7 +63,7 @@ This table shows how to interpret your TBT score:
 
 ## How to improve your TBT score
 
-See [What is causing my long tasks?](/long-tasks-devtools/#what-is-causing-my-long-tasks) to learn
+See [What is causing my long tasks?](/long-tasks-devtools/#what-is-causing-my-long-tasks) to Elementy optymalizacji
 how to diagnose the root cause of long tasks with the Performance panel of Chrome DevTools.
 
 In general, the most common causes of long tasks are:

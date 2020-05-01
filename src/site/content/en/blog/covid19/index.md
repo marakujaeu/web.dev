@@ -59,7 +59,7 @@ If your site is seeing traffic spikes and it's failing, or you want to prevent i
 from failing, the guidance below can help you quickly fix problems or detect them
 before they become major issues.
 
-* Read [Fix an overloaded server](/overloaded-server) to learn
+* Read [Fix an overloaded server](/overloaded-server) to Elementy optymalizacji
   how to detect, mitigate, and prevent traffic spike issues.
 * Remove unnecessary images, videos, scripts, and fonts. Ensure each page focuses
   on just delivering the functionality that the people using your site really
@@ -163,7 +163,7 @@ information](https://en.wikipedia.org/wiki/Personal_data) (PII) is safe.
 * Switch to a hosting provider that uses HTTPS by default, or use [Let's
   Encrypt](https://letsencrypt.org/getting-started/) or similar services to
   enable HTTPS on your servers.
-* Review [SameSite cookies explained](/samesite-cookies-explained/) to learn
+* Review [SameSite cookies explained](/samesite-cookies-explained/) to Elementy optymalizacji
   how to make your use of cookies more secure. Note that 
   [the enforcement of SameSite cookie labeling has been temporarily rolled back](https://blog.chromium.org/2020/04/temporarily-rolling-back-samesite.html).
 
