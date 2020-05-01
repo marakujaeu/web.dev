@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dlaczego prędkość ma znaczenie?
+title: Dlaczego szybkość ma znaczenie?
 authors:
   - bojanpavic
   - ansteychris  
@@ -14,7 +14,7 @@ Konsumenci w coraz większym stopniu polegają na urządzeniach mobilnych w kwes
 
 <img src="./speed-conversion-impact.jpg" alt="Image showing how a one-second delay in mobile load times can impact conversion rates by up to 20%">
 
-Gdy chodzi o pozytywne wrażenia użytkownika odnośnie strony internetowej, prędkość ma znaczenie. [Badania przeprowadzone przez firmę Erricson](https://www.ericsson.com/en/press-releases/2016/2/streaming-delays-mentally-taxing-for-smartphone-users-ericsson-mobility-report) pokazują, że stres wywołany opóźnieniami na urządzeniach mobilnych jest podobny do oglądania horroru lub rozwiązywania matematycznego problemu oraz jest większy, niż ten związany z czekaniem w kolejce w sklepie. Opóźnienia spowodowane szybkością usługi na urządzeniu mobilnym są nie tylko frustrujące, ale mogą również mieć negatywny wpływ na wyniki biznesowe. Przykładem może być fakt, że każda sekunda opóźnienia w czasie ładowania strony [może mieć wpływ na konwersję aż do 20%](https://www.thinkwithgoogle.com/intl/en-gb/advertising-channels/mobile/milliseconds-earn-millions-why-mobile-speed-can-slow-or-grow-your-business/).
+Gdy chodzi o pozytywne wrażenia użytkownika odnośnie strony internetowej, szybkość ma znaczenie. [Badania przeprowadzone przez firmę Erricson](https://www.ericsson.com/en/press-releases/2016/2/streaming-delays-mentally-taxing-for-smartphone-users-ericsson-mobility-report) pokazują, że stres wywołany opóźnieniami na urządzeniach mobilnych jest podobny do oglądania horroru lub rozwiązywania matematycznego problemu oraz jest większy, niż ten związany z czekaniem w kolejce w sklepie. Opóźnienia spowodowane szybkością usługi na urządzeniu mobilnym są nie tylko frustrujące, ale mogą również mieć negatywny wpływ na wyniki biznesowe. Przykładem może być fakt, że każda sekunda opóźnienia w czasie ładowania strony [może mieć wpływ na konwersję aż do 20%](https://www.thinkwithgoogle.com/intl/en-gb/advertising-channels/mobile/milliseconds-earn-millions-why-mobile-speed-can-slow-or-grow-your-business/).
 
 {% Aside 'note' %}
   Optymalizacja szybkości witryny może również umożliwić jej dostęp do odbiorców, którzy korzystają z najwolniejszego połączenia sieciowego i nie mają dostępu do szybkiego internetu.
