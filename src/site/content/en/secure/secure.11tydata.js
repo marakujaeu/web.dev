@@ -6,7 +6,7 @@ module.exports = {
     // Because it affects urls, the slug should never be translated.
     slug: 'secure',
     cover: '/images/collections/secure.svg',
-    title: 'Safe and secure',
+    title: 'Bezpieczeństwo',
     updated: 'May 24, 2018',
     description: `Upewnij się, że witryna i dane użytkowników są bezpieczne.`,
     overview: `Every website is vulnerable to attack—not just those handling

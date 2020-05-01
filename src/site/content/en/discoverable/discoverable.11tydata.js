@@ -6,7 +6,7 @@ module.exports = {
     // Because it affects urls, the slug should never be translated.
     slug: 'discoverable',
     cover: '/images/collections/discoverable.svg',
-    title: 'Easily discoverable',
+    title: 'SEO',
     updated: 'August 23, 2019',
     description: `Upewnij się, że użytkownicy mogą łatwo znaleźć Twoją witrynę za pomocą wyszukiwarki.`,
     overview: `Making your content discoverable matters because it's how you get

@@ -13,7 +13,7 @@ module.exports = {
     App special, how they can affect your business, and how to build them.`,
     topics: [
       {
-        title: 'Introduction',
+        title: 'Wprowadzenie',
         pathItems: ['what-are-pwas', 'pwa-checklist'],
       },
       {
